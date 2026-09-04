@@ -1,0 +1,322 @@
+[
+  {
+    "id": "QA-01",
+    "query": "What is the maximum permissible Default Loss Guarantee (DLG) cap for Digital Lending transactions under RBI guidelines?",
+    "expected_doc_ids": [
+      "02_RBI_Digital_Lending_Directives_2024"
+    ],
+    "answer": "Total DLG cover on any outstanding portfolio shall not exceed 5.0% of that loan portfolio amount."
+  },
+  {
+    "id": "QA-02",
+    "query": "What are the only eligible forms of Default Loss Guarantee (DLG) accepted by RBI for regulated entities?",
+    "expected_doc_ids": [
+      "02_RBI_Digital_Lending_Directives_2024"
+    ],
+    "answer": "Accepted only as Cash deposited with the RE, Fixed Deposits with lien marked in favor of the RE, or Bank Guarantee."
+  },
+  {
+    "id": "QA-03",
+    "query": "What is the threshold for a related party transaction to be considered material under SEBI LODR Circular 34?",
+    "expected_doc_ids": [
+      "03_SEBI_LODR_Related_Party_Transactions"
+    ],
+    "answer": "Exceeding INR 1,000 Crores or 10% of annual consolidated turnover, whichever is lower."
+  },
+  {
+    "id": "QA-04",
+    "query": "What was HDFC Bank's Net Interest Income (NII) and YoY growth in Q4 FY24?",
+    "expected_doc_ids": [
+      "01_HDFC_Bank_Q4_Financial_Results"
+    ],
+    "answer": "Net Interest Income was INR 29,077.35 Crores, representing a +24.58% YoY growth."
+  },
+  {
+    "id": "QA-05",
+    "query": "Why did HDFC Bank's provisions increase by 393% in Q4 FY24?",
+    "expected_doc_ids": [
+      "01_HDFC_Bank_Q4_Financial_Results"
+    ],
+    "answer": "Due to a special one-time contingency provision of INR 10,900 Crores against its restructured portfolio."
+  },
+  {
+    "id": "QA-06",
+    "query": "What was Infosys' total consolidated revenue and YoY constant currency growth for FY24?",
+    "expected_doc_ids": [
+      "04_Infosys_Segment_Revenue_Audited_FY24"
+    ],
+    "answer": "Total Consolidated Revenue was USD 15,568 Million with +1.4% YoY CC growth."
+  },
+  {
+    "id": "QA-07",
+    "query": "Which industry segment was the largest revenue contributor for Infosys in FY24?",
+    "expected_doc_ids": [
+      "04_Infosys_Segment_Revenue_Audited_FY24"
+    ],
+    "answer": "Financial Services & Insurance, contributing USD 4,328 Million (27.8% of total revenue)."
+  },
+  {
+    "id": "QA-08",
+    "query": "What is the total capital commitment for Tata Motors battery cell sourcing with Agratas?",
+    "expected_doc_ids": [
+      "05_Tata_Motors_EV_Division_Notes"
+    ],
+    "answer": "INR 13,000 Crores across Gujarat and Sanand facilities."
+  },
+  {
+    "id": "QA-09",
+    "query": "What is the minimum Capital to Risk-weighted Assets Ratio (CRAR) required for NBFC-ML and NBFC-UL under RBI Scale-Based Regulation?",
+    "expected_doc_ids": [
+      "06_RBI_Master_Direction_Prudential_Norms_NBFC"
+    ],
+    "answer": "Minimum CRAR of 15% on an ongoing basis, with Tier 1 capital not less than 10.0%."
+  },
+  {
+    "id": "QA-10",
+    "query": "When can an NPA account be upgraded back to standard category according to RBI NBFC prudential norms?",
+    "expected_doc_ids": [
+      "06_RBI_Master_Direction_Prudential_Norms_NBFC"
+    ],
+    "answer": "Only after all arrears of interest and principal are paid by the borrower in full."
+  },
+  {
+    "id": "QA-11",
+    "query": "What is the total sanctioned capex for Reliance Industries' Jamnagar Refinery Upgradation Project?",
+    "expected_doc_ids": [
+      "07_Reliance_Industries_Oil_to_Chemicals_Capex_Schedule"
+    ],
+    "answer": "USD 9.5 Billion (INR 79,200 Crores) with a debt-to-equity ratio of 65:35."
+  },
+  {
+    "id": "QA-12",
+    "query": "What are the two mandatory ESG rating products required by SEBI for ESG Rating Providers?",
+    "expected_doc_ids": [
+      "08_SEBI_Master_Circular_ESG_Rating_Providers"
+    ],
+    "answer": "Core ESG Rating (based on BRSR Core metrics) and Comprehensive ESG Rating."
+  },
+  {
+    "id": "QA-13",
+    "query": "What is the lookback period during which ESG Rating Providers cannot provide consulting to rated entities?",
+    "expected_doc_ids": [
+      "08_SEBI_Master_Circular_ESG_Rating_Providers"
+    ],
+    "answer": "A lookback period of 24 months."
+  },
+  {
+    "id": "QA-14",
+    "query": "What was ICICI Bank's Liquidity Coverage Ratio (LCR) in Q4 FY24?",
+    "expected_doc_ids": [
+      "09_ICICI_Bank_Treasury_Operations_Risk_Note"
+    ],
+    "answer": "Weighted Average LCR was 122.4% (against 100.0% regulatory minimum) with an HQLA pool of INR 312,450 Crores."
+  },
+  {
+    "id": "QA-15",
+    "query": "What regulatory restrictions were placed on Kotak Mahindra Bank by the RBI on April 24, 2024?",
+    "expected_doc_ids": [
+      "10_Kotak_Mahindra_Bank_Branch_Expansion_Auditor_Report"
+    ],
+    "answer": "Cease onboarding new customers via online/mobile banking channels and halt issuance of fresh credit cards."
+  },
+  {
+    "id": "QA-16",
+    "query": "What was the capital expenditure planned by Kotak Mahindra Bank to remediate Core Banking infrastructure?",
+    "expected_doc_ids": [
+      "10_Kotak_Mahindra_Bank_Branch_Expansion_Auditor_Report"
+    ],
+    "answer": "INR 450 Crores over FY25 to upgrade CBS and lower disaster recovery switchover time to under 5 minutes."
+  },
+  {
+    "id": "QA-17",
+    "query": "What is Bajaj Finance's exposure to its top 20 advances and largest single borrower?",
+    "expected_doc_ids": [
+      "11_Bajaj_Finance_Asset_Quality_Concentration"
+    ],
+    "answer": "Top 20 advances total INR 14,890 Crores (4.8% of book); largest single borrower is INR 1,850 Crores."
+  },
+  {
+    "id": "QA-18",
+    "query": "Under FEMA Rule 9, what is the ceiling on total financial commitment by an Indian entity in overseas direct investment?",
+    "expected_doc_ids": [
+      "12_RBI_Foreign_Exchange_Management_Directives_2024"
+    ],
+    "answer": "Shall not exceed 400% of its net worth as per the last audited balance sheet."
+  },
+  {
+    "id": "QA-19",
+    "query": "What was Blinkit's Gross Order Value (GOV) and Contribution Margin in Q4 FY24?",
+    "expected_doc_ids": [
+      "13_Zomato_Blinkit_Segment_Profitability_Q4"
+    ],
+    "answer": "GOV was INR 4,027 Crores and Contribution Margin was +3.9% of GOV."
+  },
+  {
+    "id": "QA-20",
+    "query": "What was Larsen & Toubro's total consolidated order inflow and international share for FY24?",
+    "expected_doc_ids": [
+      "14_Larsen_and_Toubro_Order_Book_Analysis"
+    ],
+    "answer": "Total order inflow was INR 3,02,812 Crores (+31% YoY) with international share at 47%."
+  },
+  {
+    "id": "QA-21",
+    "query": "What were the Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR) metrics for Axis Bank in FY24?",
+    "expected_doc_ids": [
+      "15_Axis_Bank_Cybersecurity_Incident_Disclosure"
+    ],
+    "answer": "MTTD was 4.2 minutes and MTTR was 14.8 minutes."
+  },
+  {
+    "id": "QA-22",
+    "query": "What is the maximum investment limit for Category II and Category III AIFs in a single investee company?",
+    "expected_doc_ids": [
+      "16_SEBI_AIF_Alternative_Investment_Funds_Regulations"
+    ],
+    "answer": "Not more than 25% of investable funds for Category II, and not more than 10% for Category III AIF."
+  },
+  {
+    "id": "QA-23",
+    "query": "What regulatory status does Sun Pharma's Mohali manufacturing facility have under US FDA?",
+    "expected_doc_ids": [
+      "17_Sun_Pharma_FDA_Inspection_Observation_483"
+    ],
+    "answer": "Import Alert 66-40 with exemptions for 14 life-saving oncology formulations; Form FDA 483 with 5 procedural observations."
+  },
+  {
+    "id": "QA-24",
+    "query": "What was Wipro's voluntary attrition rate (TTM) and gross utilization in FY24?",
+    "expected_doc_ids": [
+      "18_Wipro_Attrition_and_Utilization_Metrics"
+    ],
+    "answer": "Voluntary attrition dropped to 14.2% (from 21.9% in FY23), and gross utilization was 84.8% in Q4 FY24."
+  },
+  {
+    "id": "QA-25",
+    "query": "Which 4 PSP banks were partnered with for migrating Paytm's UPI handles?",
+    "expected_doc_ids": [
+      "19_Paytm_Onet97_Payments_Bank_Action_Report"
+    ],
+    "answer": "Axis Bank, HDFC Bank, State Bank of India, and YES Bank."
+  },
+  {
+    "id": "QA-26",
+    "query": "What was the net deficit in State Bank of India's pension and gratuity defined benefit obligations for FY24?",
+    "expected_doc_ids": [
+      "20_State_Bank_of_India_Pension_Fund_Liabilities"
+    ],
+    "answer": "Net deficit recognized was INR 4,760 Crores (Obligation: INR 84,210 Cr, Assets: INR 79,450 Cr)."
+  },
+  {
+    "id": "QA-27",
+    "query": "What was Adani Ports' Net Debt to EBITDA ratio and gross debt as of March 31, 2024?",
+    "expected_doc_ids": [
+      "21_Adani_Ports_Debt_Maturity_Profile"
+    ],
+    "answer": "Total gross debt was INR 45,820 Crores with Net Debt to EBITDA of 2.3x (covenant ceiling 3.5x)."
+  },
+  {
+    "id": "QA-28",
+    "query": "What is the issue size and primary use of proceeds for NTPC Green Energy's IPO?",
+    "expected_doc_ids": [
+      "22_NTPC_Green_Energy_IPO_Draft_Prospectus"
+    ],
+    "answer": "Issue size is up to INR 10,000 Crores; INR 7,500 Crores allocated to subsidiary debt repayment."
+  },
+  {
+    "id": "QA-29",
+    "query": "What is the share entitlement ratio for the demerger of ITC Hotels from ITC Limited?",
+    "expected_doc_ids": [
+      "23_ITC_Limited_Hotels_Demerger_Scheme"
+    ],
+    "answer": "For every 10 ordinary shares in ITC Limited, 1 equity share of ITC Hotels Limited will be issued."
+  },
+  {
+    "id": "QA-30",
+    "query": "What was the financial impact of the Nigerian Naira devaluation on Bharti Airtel's P&L?",
+    "expected_doc_ids": [
+      "24_Bharti_Airtel_African_Subsidiaries_Currency_Devaluation"
+    ],
+    "answer": "An exceptional forex loss of INR 5,420 Crores recognized in consolidated P&L."
+  },
+  {
+    "id": "QA-31",
+    "query": "What percentage of promoter shares are pledged or encumbered in Vedanta Limited?",
+    "expected_doc_ids": [
+      "25_Vedanta_Limited_Pledge_and_Encumbrance_Report"
+    ],
+    "answer": "99.8% of total promoter holding (63.71% stake) is pledged/encumbered."
+  },
+  {
+    "id": "QA-32",
+    "query": "What was HDFC Bank's Capital Adequacy Ratio (CAR) in Q4 FY24?",
+    "expected_doc_ids": [
+      "01_HDFC_Bank_Q4_Financial_Results"
+    ],
+    "answer": "Capital Adequacy Ratio (CAR) stood at 18.80%."
+  },
+  {
+    "id": "QA-33",
+    "query": "What is the tenor requirement for Default Loss Guarantee agreements in digital lending under RBI?",
+    "expected_doc_ids": [
+      "02_RBI_Digital_Lending_Directives_2024"
+    ],
+    "answer": "Shall not be less than the longest tenor of the underlying loans in the portfolio."
+  },
+  {
+    "id": "QA-34",
+    "query": "What was the transaction value for brand royalty fees paid to Apex Infra Holdings in SEBI disclosure?",
+    "expected_doc_ids": [
+      "03_SEBI_LODR_Related_Party_Transactions"
+    ],
+    "answer": "Approved limit was INR 150.00 Cr and value transacted was INR 142.50 Cr."
+  },
+  {
+    "id": "QA-35",
+    "query": "What was Infosys' YoY constant currency growth in Manufacturing & Hi-Tech segment in FY24?",
+    "expected_doc_ids": [
+      "04_Infosys_Segment_Revenue_Audited_FY24"
+    ],
+    "answer": "Manufacturing & Hi-Tech grew +9.1% YoY CC, reaching USD 2,310 Million."
+  },
+  {
+    "id": "QA-36",
+    "query": "What amount is claimed under FAME-II subsidy by Tata Motors Passenger Electric Mobility?",
+    "expected_doc_ids": [
+      "05_Tata_Motors_EV_Division_Notes"
+    ],
+    "answer": "INR 784.50 Crores under FAME-II subsidy claim with no impairment provision made."
+  },
+  {
+    "id": "QA-37",
+    "query": "What is the progressive discounting rate on subordinated debt for Tier 2 capital under RBI NBFC norms?",
+    "expected_doc_ids": [
+      "06_RBI_Master_Direction_Prudential_Norms_NBFC"
+    ],
+    "answer": "Subject to progressive discounting at 20% per annum during the last 5 years to maturity."
+  },
+  {
+    "id": "QA-38",
+    "query": "What is the expected commercial operation date (COD) for Reliance Jamnagar Refinery Upgradation?",
+    "expected_doc_ids": [
+      "07_Reliance_Industries_Oil_to_Chemicals_Capex_Schedule"
+    ],
+    "answer": "Expected Commercial Operation Date (COD) is Q3 FY26."
+  },
+  {
+    "id": "QA-39",
+    "query": "What is the average order value (AOV) and dark store count for Blinkit in Q4 FY24?",
+    "expected_doc_ids": [
+      "13_Zomato_Blinkit_Segment_Profitability_Q4"
+    ],
+    "answer": "Average Order Value was INR 617 with 526 active dark stores across 26 cities."
+  },
+  {
+    "id": "QA-40",
+    "query": "What is the weighted average power purchase agreement (PPA) tariff for NTPC Green Energy?",
+    "expected_doc_ids": [
+      "22_NTPC_Green_Energy_IPO_Draft_Prospectus"
+    ],
+    "answer": "Weighted average tariff is INR 2.68 per kWh with an average PPA duration of 25 years."
+  }
+]

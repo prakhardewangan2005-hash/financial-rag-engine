@@ -1,0 +1,11 @@
+KOTAK MAHINDRA BANK - INDEPENDENT AUDITOR EMPHASIS OF MATTER
+Audit Firm: Walker Chandiok & Co LLP & Price Waterhouse LLP Joint Audit
+
+Emphasis of Matter: Technical Outages and RBI Regulatory Supervisory Restrictions
+On April 24, 2024, the Reserve Bank of India directed the Bank to:
+1. Cease onboarding new customers through online and mobile banking channels.
+2. Halt issuance of fresh credit cards.
+
+Financial Impact Assessment:
+- Credit card portfolio contributed 8.2% of total retail fee income in FY24.
+- Management estimated customer acquisition remediation capex at INR 450 Crores over FY25 to upgrade Core Banking Infrastructure (CBS) and disaster recovery switchover time from 45 minutes to under 5 minutes.

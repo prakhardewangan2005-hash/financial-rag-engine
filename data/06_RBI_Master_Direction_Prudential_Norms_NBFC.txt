@@ -1,0 +1,12 @@
+RESERVE BANK OF INDIA MASTER DIRECTION - NBFC PRUDENTIAL NORMS (SCALE BASED REGULATION)
+Circular Ref: RBI/DNBR/2023-24/89
+Applicable to: NBFC-Base Layer (BL), NBFC-Middle Layer (ML), NBFC-Upper Layer (UL).
+
+Section 12: Tier 1 and Tier 2 Capital Requirements
+1. Minimum Capital Ratio: Every NBFC-ML and NBFC-UL shall maintain a minimum Capital to Risk-weighted Assets Ratio (CRAR) of 15% on an ongoing basis.
+2. Tier 1 Capital shall not be less than 10.0% of risk-weighted assets.
+3. Subordinated Debt eligible for Tier 2 capital shall be subject to progressive discounting at 20% per annum during the last 5 years to maturity.
+
+Section 18: Non-Performing Asset (NPA) Classification Timeline
+- An asset shall be classified as NPA if interest or installment of principal remains overdue for more than 90 days.
+- Upgradation of accounts classified as NPA: Upgradation can happen ONLY after all arrears of interest and principal are paid by the borrower in full.

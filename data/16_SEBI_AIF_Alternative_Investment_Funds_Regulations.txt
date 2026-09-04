@@ -1,0 +1,7 @@
+SECURITIES AND EXCHANGE BOARD OF INDIA (ALTERNATIVE INVESTMENT FUNDS) REGULATIONS
+SEBI/HO/AFD/PoD/CIR/2024/16
+
+Regulation 15: Investment Conditions for Category II and Category III AIFs
+1. Category II AIF shall invest not more than 25% of its investable funds in an unlisted investee company directly or through investment in units of other AIFs.
+2. Category III AIF shall invest not more than 10% of its investable funds in an investee company.
+3. Un-invested portion of investable funds may be held in liquid funds, Treasury Bills, or repo in government securities.

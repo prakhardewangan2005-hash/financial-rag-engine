@@ -1,0 +1,10 @@
+SECURITIES AND EXCHANGE BOARD OF INDIA (SEBI)
+Master Circular for ESG Rating Providers (ERPs) | SEBI/HO/DDHS/DDHS-POD-2/P/CIR/2024/45
+
+1. Mandatory Rating Products:
+(a) Core ESG Rating: Based entirely on audited and verified BRSR (Business Responsibility and Sustainability Reporting) Core metrics.
+(b) Comprehensive ESG Rating: Integrating global supply chain disclosures and unverified disclosures.
+
+2. Conflict of Interest & Fee Structure:
+- ERPs shall not provide consulting or advisory services to entities they rate within a lookback period of 24 months.
+- Subscriber-pays model vs Issuer-pays model: If Issuer-pays model is used, ERP must disclose historical rating distribution annually on website.

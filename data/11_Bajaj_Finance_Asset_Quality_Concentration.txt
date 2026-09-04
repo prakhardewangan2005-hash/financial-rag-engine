@@ -1,0 +1,8 @@
+BAJAJ FINANCE LIMITED - ASSET LIABILITY MANAGEMENT (ALM) & CONCENTRATION RISK REPORT
+Classification as NBFC-UL (Upper Layer)
+
+Concentration of Top 20 Borrowers:
+- Aggregate exposure to top 20 advances: INR 14,890 Crores (4.8% of total loan book).
+- Largest single borrower exposure: INR 1,850 Crores (Commercial Real Estate - Residential construction).
+- Capital to Risk Assets Ratio (CRAR): 22.52% (Tier 1: 21.51%, Tier 2: 1.01%).
+- Expected Credit Loss (ECL) Stage 3 Coverage: 64.2% on secured assets, 84.8% on two-wheeler/unsecured micro-loans.

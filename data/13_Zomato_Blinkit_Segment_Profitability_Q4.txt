@@ -1,0 +1,10 @@
+ZOMATO LIMITED - QUICK COMMERCE (BLINKIT) UNIT ECONOMICS & METRICS
+Quarter Ended March 31, 2024
+
+Key Operational Metrics:
+- Gross Order Value (GOV): INR 4,027 Crores (Q4 FY24) vs INR 1,675 Crores (Q4 FY23).
+- Average Order Value (AOV): INR 617 vs INR 522 in Q4 FY23.
+- Dark Store Count: 526 active stores across 26 cities.
+- Average GOV per day per store: INR 8.4 Lakhs.
+- Contribution Margin (% of GOV): +3.9% in Q4 FY24 vs -2.6% in Q4 FY23.
+- Take Rate (Net Revenue as % of GOV): 19.4%.

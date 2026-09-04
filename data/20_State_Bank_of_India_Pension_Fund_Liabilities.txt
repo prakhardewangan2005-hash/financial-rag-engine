@@ -1,0 +1,9 @@
+STATE BANK OF INDIA - ACTUARIAL VALUATION OF RETIREMENT BENEFIT OBLIGATIONS
+Note 34 to Standalone Financial Statements FY24
+
+1. Pension & Gratuity Liabilities:
+- Present Value of Defined Benefit Obligation: INR 84,210 Crores.
+- Fair Value of Plan Assets: INR 79,450 Crores.
+- Net Deficit recognized in Balance Sheet: INR 4,760 Crores.
+- Discount Rate applied: 7.15% per annum (based on 10-year G-Sec yield).
+- Expected Rate of Salary Escalation: 6.00% per annum.

@@ -1,0 +1,10 @@
+ONE 97 COMMUNICATIONS LIMITED (PAYTM) - BUSINESS RESTRUCTURING UPDATE
+Response to RBI Directive on Paytm Payments Bank Limited (PPBL) dated January 31, 2024
+
+1. Transition of UPI Handle & Merchant Acquiring:
+- Migration of `@paytm` handles to 4 PSP Banks: Axis Bank, HDFC Bank, State Bank of India, and YES Bank.
+- Nodal Account migration completed to Axis Bank escrow account.
+
+2. Financial Impact on GMV (Gross Merchandise Value):
+- Monthly GMV dipped from INR 1.65 Lakh Crores (Jan 2024) to INR 1.12 Lakh Crores (March 2024).
+- Soundbox and POS device subscription net additions paused in Feb-March 2024; active device count stood at 10.7 Million as of Q4 FY24.

@@ -1,0 +1,11 @@
+ICICI BANK LIMITED - TREASURY OPERATIONS & INTEREST RATE RISK DISCLOSURE
+Base Rate vs Repo-Linked Lending Rate (RLLR) Portfolio Sensitivity
+
+1. Sensitivity to +/- 100 bps Interest Rate Shift:
+- Impact on Net Interest Income (NII) over 12-month horizon: INR 1,840 Crores (+/- 3.2%).
+- Modified Duration of Available for Sale (AFS) Fixed Income Portfolio: 2.14 years.
+- Modified Duration of Held to Maturity (HTM) G-Sec Portfolio: 4.82 years.
+
+2. Liquidity Coverage Ratio (LCR):
+Weighted Average LCR for Q4 FY24 stood at 122.4% (Regulatory requirement: 100.0%).
+High-Quality Liquid Assets (HQLA) Pool: INR 312,450 Crores, predominantly Level 1 Sovereign Assets.

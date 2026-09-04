@@ -1,0 +1,11 @@
+AXIS BANK LIMITED - FORM SE-16: DISCLOSURE OF CYBERSECURITY READINESS & TESTING
+Reg: SEBI Circular on Cybersecurity and Cyber Resilience framework
+
+1. Third-Party Vendor Security Audits:
+- Total vendor integrations reviewed in FY24: 342 critical APIs.
+- Critical vulnerabilities identified and remediated within SLA (15 days): 100%.
+- Mean Time to Detect (MTTD): 4.2 minutes.
+- Mean Time to Respond (MTTR): 14.8 minutes.
+
+2. Incident Reporting:
+Zero material breaches or unauthorized exfiltration of customer PII occurred during FY24.
