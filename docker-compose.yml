@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  rag-engine:
+    build: .
+    container_name: financial_rag_engine
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - CACHE_ENABLED=True
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
